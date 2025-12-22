@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my master's degree in Computer Engineering at TMU
 - 🌱 I’m currently learning Deep Learning & Data Science
-- ⚡ Interests: I'm into Philosophy, Reading, Soccer, and Dota2!
+- ⚡ Interests: I'm into Philosophy, Reading, Soccer, and Running!
 
 
 <!--
