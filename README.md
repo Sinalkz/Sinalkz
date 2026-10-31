@@ -1,22 +1,8 @@
-## Hi there 👋
+### Hey, I'm Ali (Sina) 👋
 
+I'm a researcher with a soft spot for AI you can actually trust. I'm interested
+in building AI services and research that are reliable and secure enough for
+people and industries to depend on, and that's the thread running through
+most things here and also some personal and side projects.
 
-- 🔭 I’m currently working on my master's degree in Computer Engineering at TMU
-- 🌱 I’m currently learning Deep Learning & Data Science
-- ⚡ Interests: I'm into Philosophy, Reading, Soccer, and Running!
-
-
-<!--
-**Sinalkz/Sinalkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [LinkedIn](https://www.linkedin.com/in/alakzaei) · [Email](mailto:sinalakzaee@gmail.com)
